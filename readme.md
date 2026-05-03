@@ -1,4 +1,3 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/2a4L9bD1)
 # Laboratorio: Git y GitHub
 
 ## Antes de empezar
@@ -414,7 +413,7 @@ c) Hacer un rebase interactivo para reescribir el historial antes de responder a
 d) Pedirle al owner que mergee igual y hacer el fix en un PR separado
 
 ```
-RESPUESTA_P2=
+RESPUESTA_P2=b
 ```
 
 ---
@@ -495,7 +494,7 @@ c) Porque `git reset --hard` modifica el historial local, generando conflictos p
 d) Porque GitHub bloquea automáticamente los push después de un `git reset --hard`
 
 ```
-RESPUESTA_P3=
+RESPUESTA_P3=c
 ```
 
 ---
@@ -627,7 +626,7 @@ c) `(n & 1) == 0` no funciona con números negativos en ningún compilador C est
 d) No hay ninguna diferencia; el compilador genera exactamente el mismo código para ambas
 
 ```
-RESPUESTA_P4=
+RESPUESTA_P4=b
 ```
 
 ---
@@ -645,7 +644,7 @@ c) Si hay que revertir un cambio puntual es imposible sin deshacer todo lo del d
 d) Git rechaza commits que modifiquen demasiados archivos al mismo tiempo
 
 ```
-RESPUESTA_P5=
+RESPUESTA_P5=c
 ```
 
 ---
@@ -661,7 +660,7 @@ c) `git fetch` solo descarga la branch actual; `git pull` descarga todas las bra
 d) `git pull` siempre pide confirmación antes de modificar archivos locales; `git fetch` no
 
 ```
-RESPUESTA_P6=
+RESPUESTA_P6=b
 ```
 
 ---
@@ -677,7 +676,7 @@ c) Qué problema resuelve o qué funcionalidad agrega, cómo se verificó que fu
 d) El tiempo que tardó en implementarse y el nombre del autor
 
 ```
-RESPUESTA_P7=
+RESPUESTA_P7=c
 ```
 
 ---
